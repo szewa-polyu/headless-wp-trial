@@ -1,3 +1,6 @@
+This project is my attempt at following the excellent tutorial "Headless WordPress with React" by J. C. Hiatt.
+https://medium.com/@jchiatt/headless-wordpress-with-react-d573bca02ee0
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
